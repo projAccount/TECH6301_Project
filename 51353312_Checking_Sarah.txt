@@ -1,0 +1,21 @@
+~~~~~~~~~~~~~~~~~~~~~
+ ACCOUNT INFORMATION 
+~~~~~~~~~~~~~~~~~~~~~
+
+>>Account Holder: Sarah
+>>Account ID Number: 51353312
+>>Account Type: Checking
+
+~~~~~~~~~~~~~~~~~~~~~
+ Transaction History 
+~~~~~~~~~~~~~~~~~~~~~
+
+Deposit: +$100000
+Balance: $100000
+---------
+Deposit: +$23456
+Balance: $123456
+---------
+Withdraw: -$56
+Balance: $123400
+---------

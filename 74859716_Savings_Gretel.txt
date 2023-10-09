@@ -1,0 +1,39 @@
+~~~~~~~~~~~~~~~~~~~~~
+ ACCOUNT INFORMATION 
+~~~~~~~~~~~~~~~~~~~~~
+
+>>Account Holder: Gretel
+>>Account ID Number: 74859716
+>>Account Type: Savings
+
+~~~~~~~~~~~~~~~~~~~~~
+ Transaction History 
+~~~~~~~~~~~~~~~~~~~~~
+
+Deposit: +$500
+Balance: $500
+---------
+Deposit: +$500
+Balance: $1000
+---------
+Deposit: +$1000
+Balance: $2000
+---------
+Withdraw: -$1234
+Balance: $766
+---------
+Deposit: +$1500
+Balance: $2266
+---------
+Deposit: +$3000
+Balance: $5266
+---------
+Withdraw: -$5266
+Balance: $0
+---------
+Deposit: +$1
+Balance: $1
+---------
+Deposit: +$9999999
+Balance: $10000000
+---------

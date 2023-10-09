@@ -1,0 +1,30 @@
+~~~~~~~~~~~~~~~~~~~~~
+ ACCOUNT INFORMATION 
+~~~~~~~~~~~~~~~~~~~~~
+
+>>Account Holder: Mary
+>>Account ID Number: 97466511
+>>Account Type: Checking
+
+~~~~~~~~~~~~~~~~~~~~~
+ Transaction History 
+~~~~~~~~~~~~~~~~~~~~~
+
+Deposit: +$0
+Balance: $0
+---------
+Deposit: +$50
+Balance: $50
+---------
+Deposit: +$50
+Balance: $100
+---------
+Deposit: +$50
+Balance: $150
+---------
+Deposit: +$50
+Balance: $200
+---------
+Deposit: +$90000
+Balance: $90200
+---------

@@ -1,0 +1,30 @@
+~~~~~~~~~~~~~~~~~~~~~
+ ACCOUNT INFORMATION 
+~~~~~~~~~~~~~~~~~~~~~
+
+>>Account Holder: Harvey
+>>Account ID Number: 23255222
+>>Account Type: Savings
+
+~~~~~~~~~~~~~~~~~~~~~
+ Transaction History 
+~~~~~~~~~~~~~~~~~~~~~
+
+Deposit: +$100
+Balance: $100
+---------
+Deposit: +$100
+Balance: $200
+---------
+Invalid withdrawal attempted
+Balance: $200
+---------
+Invalid withdrawal attempted
+Balance: $200
+---------
+Deposit: +$20
+Balance: $220
+---------
+Withdraw: -$200
+Balance: $20
+---------
