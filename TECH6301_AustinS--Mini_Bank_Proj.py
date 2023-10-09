@@ -22,7 +22,7 @@ def main():
             #---Generate 8-Digit ID for the new account
             self.accountNumber = 0 
             for n in range(8):
-                #ID is 8 randomly generated digits (1,...,8,9) concated together
+                #ID is 8 randomly generated digits (1,...,8,9) concatenated together
                 self.accountNumber += int(randint(1,9)*math.pow(10,n))
 
 
